@@ -1,0 +1,240 @@
+administrators:
+  color: "#fa0"
+  members:
+    - username: Brottweiler
+      id: 6968cbde-c2b7-479c-a8da-f33f109f013b
+      role: Moderation & Support
+      links:
+        email: brott@oc.tc
+        github: Brottweiler
+    - username: ElectroidFilms
+      id: dad8b95c-cf6a-44df-982e-8c8dd70201e0
+      role: SysAdmin & Development
+    - username: applenick
+      id: f54a1b17-3167-4162-948a-9c95d65a18a5
+      role: SysAdmin & Development
+    - username: Strangey
+      id: 621b2aa8-4e5f-4ed8-bd36-0ae2f8952a06
+      role: Map Development & Community
+    - username: Campeh
+      id: 61f8e9dd-62ab-453a-b7ef-83ce8a383fe8
+      role: Events
+    - username: wylt
+      id: d71152ca-187d-43c4-9901-ba001606c655
+      role: Community & Partnerships
+senior moderators:
+  color: "#a00"
+  members:
+    - username: Noel
+      id: 1696b5e2-2a7d-4dd0-a67e-45ebdd19359c
+    - username: Kiyara
+      id: 15c75bdd-005f-40f6-9e20-1ecf48bb51e5
+    - username: EgoPlaZa
+      id: 06b7b11d-3f35-4557-8fd2-0f96d7683c82
+    - username: CincoDeMayo
+      id: 57c4813e-ecc2-4aee-9479-8d58991d1a0c
+developers:
+  color: "#a5a"
+  members:
+    - username: unixfox
+      id: 02407912-8bbf-4b7b-a34c-a45339841436
+      role: Bolt Developer
+    - username: dentmaged
+      id: 30401f63-f5bb-4f24-9a5a-0ecd5f706115
+      role: Bolt Developer
+    - username: Pugzy
+      id: 75fd93dd-8e48-4698-81a2-97dae2ec5b5f
+      role: Bolt Developer
+    - username: cs_
+      id: cc2292de-fcb3-412d-9319-f3177f73b605
+      role: OCC Developer
+map developers:
+  color: "#55f"
+  members:
+    - username: Pugzy
+      id: 75fd93dd-8e48-4698-81a2-97dae2ec5b5f
+    - username: jexel
+      id: 9225421c-3c09-4d97-bb80-f6a77c1f360b
+    - username: _DISTRACTION_
+      id: f876b863-1ccd-4ae2-acad-8a09e2209e81
+    - username: CoWinkKeyDinkInc
+      id: 5c79d2c9-a4f0-4343-a84b-e1720f13009b
+    - username: mameBT
+      id: 430ec559-364a-4363-ac7a-2529050440ac
+    - username: Ruediger_LP
+      id: e2d2c2c6-cea9-4510-9ab2-a091b5605b30
+    - username: Tywnis
+      id: 2ca8072f-74be-4798-85b8-bbce03aa91af
+    - username: Cazadorian
+      id: 6863869b-4b8c-4445-b778-a8e016775ae4
+    - username: zzuf
+      id: 9d4779a8-d35f-45d2-b51c-95de7a77e128
+    - username: _Pear
+      id: 6ff4ade9-e968-4acd-80eb-1a6fa89629fb
+head of events:
+  color: "#fc0"
+  members:
+    - username: Strangey
+      id: 621b2aa8-4e5f-4ed8-bd36-0ae2f8952a06
+    - username: wylt
+      id: d71152ca-187d-43c4-9901-ba001606c655
+    - username: Antnecb
+      id: b1521072-6993-4fe4-ae60-dbeeb7dc0cfa
+    - username: mameBT
+      id: 430ec559-364a-4363-ac7a-2529050440ac
+media:
+  color: "#3c3"
+  members:
+    - username: Riuw
+      id: 3de0af8e-b1e6-4de7-95dc-7b2ed9333d3f
+    - username: sqyid
+      id: c1d94f18-6ea3-495a-8d1b-7d9eaf393f64
+    - username: Pugzy
+      id: 75fd93dd-8e48-4698-81a2-97dae2ec5b5f
+    - username: CincoDeMayo
+      id: 57c4813e-ecc2-4aee-9479-8d58991d1a0c
+    - username: Witmoos
+      id: bb2c7f64-5aa1-452c-a6da-515862f033cb
+    - username: MajorMcDonalds
+      id: a53b7c56-ddc6-4fcb-a121-9a3829aabc28
+    - username: Diamyx
+      id: f70b7a8f-93b2-480f-9d54-88e21485a042
+    - username: MishM0sh
+      id: 4011d739-4dfb-41f6-8e60-5179d035cab7
+    - username: Flamiix
+      id: 654a9fe7-c75c-4b45-91df-8d48c4a5e072
+    - username: Oprad
+      id: 4836c72e-1752-4716-a0fc-83baf403e0eb
+moderators:
+  color: "#f55"
+  members:
+    - username: luisgbr99
+      id: 3159ff86-76e2-453c-9ade-5e2ba9918396
+    - username: jexel
+      id: 9225421c-3c09-4d97-bb80-f6a77c1f360b
+    - username: KingOfSquares
+      id: 8af5859a-1d6e-4fbd-ae5f-4c63ff630fa4
+      links:
+        github: KingOfSquares
+    - username: Pugzy
+      id: 75fd93dd-8e48-4698-81a2-97dae2ec5b5f
+    - username: Diamyx
+      id: f70b7a8f-93b2-480f-9d54-88e21485a042
+    - username: CoWinkKeyDinkInc
+      id: 5c79d2c9-a4f0-4343-a84b-e1720f13009b
+    - username: ocktick
+      id: 18ae0b62-8015-43b9-9409-f59246332bb4
+    - username: Arzanex
+      id: 62b6d081-8df8-4c09-aa15-71141ca7df76
+    - username: otherkris
+      id: 9923dd17-577e-4e9b-b9fe-46c8fb3aa962
+    - username: _DISTRACTION_
+      id: f876b863-1ccd-4ae2-acad-8a09e2209e81
+    - username: Nidho0gg
+      id: f34625ab-8f27-4cb5-8424-671fa82d4033
+    - username: matt772
+      id: 468c7d75-62e0-4d11-8fc1-4888965be11c
+    - username: mameBT
+      id: 430ec559-364a-4363-ac7a-2529050440ac
+    - username: _CherryPie_
+      id: b1d3f382-6317-4c34-bda2-1aefbed6c8cd
+    - username: HardstyleRaver
+      id: 8d812ffa-e5f1-4658-bb47-a18b785ccd27
+    - username: Kingie
+      id: 0f59172c-de53-4bbe-a060-1a5dc274db4e
+    - username: Witmoos
+      id: bb2c7f64-5aa1-452c-a6da-515862f033cb
+    - username: MajorMcDonalds
+      id: a53b7c56-ddc6-4fcb-a121-9a3829aabc28
+    - username: alejitox
+      id: a90be681-0d8d-4d76-9094-c609a5d4596a
+    - username: ImJeezus
+      id: 20985d45-20c1-45f7-a7e9-daeaf7c08c2e
+    - username: Antnecb
+      id: b1521072-6993-4fe4-ae60-dbeeb7dc0cfa
+    - username: bend
+      id: 36dc036a-dfbc-4627-b66a-501223f08075
+    - username: Zet
+      id: 12272c21-3716-44a4-9d35-0c5221756439
+    - username: NotTeaTea0ne
+      id: 5cf9c375-632d-47ef-8418-304b2e8cfee9
+    - username: Shimane
+      id: 3a3f756e-7925-409a-be5e-e8c1694b3e2c
+    - username: Cazadorian
+      id: 6863869b-4b8c-4445-b778-a8e016775ae4
+    - username: catzzy
+      id: 1f7851a8-3a58-4d68-839f-939727a11080
+    - username: Chiddy_
+      id: 2fde9fe3-8aa0-43bf-9f74-e1c46f4dae72
+    - username: sqyid
+      id: c1d94f18-6ea3-495a-8d1b-7d9eaf393f64
+    - username: JacketJack_
+      id: 8c82e83e-4d7e-40d4-9eb7-3b3eaf08c048
+    - username: Heirokos
+      id: 45b61852-eacd-4cee-8e6d-1c96f8213b02
+    - username: Quanteey
+      id: 2c222e01-fc43-4a35-8a61-9b4af9202094
+    - username: MishM0sh
+      id: 4011d739-4dfb-41f6-8e60-5179d035cab7
+    - username: mennd
+      id: 3c896d60-b709-4d68-8cfc-7bf62ae92437
+    - username: Riuw
+      id: 3de0af8e-b1e6-4de7-95dc-7b2ed9333d3f
+    - username: miniature_Joe
+      id: 69803996-1115-414c-b698-5986535f02b4
+    - username: Flamiix
+      id: 654a9fe7-c75c-4b45-91df-8d48c4a5e072
+    - username: nuttydragon
+      id: b83f7de9-9d69-468a-8cea-dc3864b584cb
+    - username: arcadeboss
+      id: c25a6f7b-4c42-40da-8cd6-add53f0c84eb
+    - username: serendipidU
+      id: 8442c79d-54f1-426c-9929-f82b0c215d2f
+    - username: MagiG67
+      id: 27ea204b-440f-4f5e-bd12-4e21777ffa37
+    - username: cs_
+      id: cc2292de-fcb3-412d-9319-f3177f73b605
+junior moderators:
+  color: "#f5f"
+  members: []
+builders:
+  color: "#6FF"
+  members:
+    - username: rockymine
+      id: fe3608b7-d105-4029-8800-34b3147065b6
+    - username: Zero_Frosty
+      id: 74948888-fdb8-4446-9340-f7688c2435cc
+    - username: Tundren
+      id: ec5ec930-5cf3-4f8a-ad9f-09056aeed71b
+    - username: Mewzzy
+      id: b2539be1-8f98-4375-b653-9d91cd04c30e
+    - username: Technodono
+      id: 1aad55f7-2dea-4f22-85ca-ad9de3a78609
+    - username: DerStiv
+      id: f1ff7ecc-2e79-4320-85de-adb392eb2822
+    - username: Kazoha
+      id: 38ef938a-7020-4c04-9d12-4875ed0598ca
+    - username: Shuliett
+      id: f6f5dce8-a158-461d-b26d-dc8acfaeedd7
+    - username: lunaceee
+      id: 97d1cc45-0f69-482b-9974-09351aef9dfa
+    - username: samschaap
+      id: 63ddf58a-ba2c-4d39-8481-6358bb46c63a
+    - username: Obelistics
+      id: b03360db-b8cd-49de-8ba1-b7920c2238a9
+advisors:
+  color: "#a00"
+  members:
+    - username: Pablete1234
+      id: e82603df-417d-4a95-bd1f-1720648be0b4
+    - username: Cobol72
+      id: f2b92aaf-40cc-4272-ad73-179f1b624658
+    - username: Pibo
+      id: 65ffe1e4-d09e-4835-85d3-bfa6972b8a25
+    - username: Indicado
+      id: 9b4fbb38-ed55-44ad-b510-9f0197433f93
+      links:
+        email: me@indicado.org
+        github: Indicardo
+    - username: Siceth
+      id: 1e4cbacc-0fb5-445a-a99d-7c76f9d0b564
