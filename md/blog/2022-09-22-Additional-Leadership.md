@@ -16,7 +16,7 @@ With that introspection, we needed someone who could grow & foster the community
 Wylt has been promoted to admin and will begin our secret plans right away. So please welcome wylt to the group and congratulate him the next time you see him!
 
 
-## We Need YOU
+# We Need YOU
 
 ![We Need YOU](/img/blog/we_need_you.png)
 

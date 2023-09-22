@@ -8,7 +8,7 @@ excerpt: Learn about the first official Overcast Community tournament.
 
 After a lot of planning, thinking, fixing and testing, we are more than excited to announce the first official Overcast Community tournament: **Once Upon a Time in Overcast**! It will be an **8 vs 8** tournament, featuring different gamemodes such as **Capture the Wool**, **Destroy the Core**, **Team Deathmatch** and **Capture the Flag**. For more information, read on!
 
-## Information
+# Information
 
 - The tournament format will be announced once we know the exact number of teams playing.
 - It will feature 3 different game modes: Capture the Wool, Destroy the Monument and Conquest. The first two will be 8v8, and the latter 7v7.
@@ -18,7 +18,7 @@ After a lot of planning, thinking, fixing and testing, we are more than excited 
     **Note**: The Staff on the event running department can't play the tournament.
 - We will be using Discord for the tournament. Use [this link](https://discord.gg/MZ6xEa7) to join, and once the registration closes we will be giving ranks to players and team leaders. You are required to use Discord for the tournament.
 
-## Dates
+# Dates
 
 - **Team registrations ends**: August 18th at 23:59 GMT-3
 - **Private servers release and wildcard registrations end**: August 19th
@@ -26,7 +26,7 @@ After a lot of planning, thinking, fixing and testing, we are more than excited 
 - **Groups stage**: August 22nd & 23rd
 - **Invitationals**: August 29th & 30th
 
-## Registrations
+# Registrations
 
 To register your team, you must do the following:
 
@@ -39,13 +39,13 @@ Additionally, we will have Wildcard teams! To inscribe yourself as a Wildcard pl
 
 To inscribe yourself as a Wildcard player, please complete [this form](https://forms.gle/frfT88kS6oDt4pJc7).
 
-## Maps, game modes & veto system
+# Maps, game modes & veto system
 
 - The map pool is yet to be confirmed, but the idea is to create a map pool with nostalgic maps. The map pool will be confirmed ~1 week before the tournament starts. Once the registration ends, we will be giving practice servers to every team registered, with the complete map pool and basic permissions for practice.
 - The provisional map pool will be posted in `#map-pool` along with meta changes that we’ve made this last few days.
 - The final veto system will be released alongside the final format.
 
-## Staff applications
+# Staff applications
 
 We are opening applications to several positions in our staff, such as:
 
@@ -56,13 +56,13 @@ We are opening applications to several positions in our staff, such as:
 
 Please complete [this form](https://forms.gle/xZy7ktibYMZdBFF78) and we will review your application shortly. If you think you can help us in any other way, please let us know by selecting the “other” option.
 
-## Servers and scrims
+# Servers and scrims
 
 - We will be having private servers for every team! Each team will receive a server to practice for the tournament, which can be started by any team member through the team's private discord channel. Only the team members will have permissions in-game. AFK players will be kicked after 10 minutes, and any server empty for more than 10 minutes will shut down automatically. Please note that the practice servers will have a player cap of 12 and is intended for strating, practicing defenses, cannons, etc.
 - To scrimm with other teams, more powerful practice servers will be provided. Scrim hosts and team leaders can start them from the appropriate Discord channel and have basic permissions. You will be allowed to upgrade your team server to one of these too, more information about this below.
 - Minecraft-Discord integration: In order to have access to their team's voice and text channels, players should link their Minecraft account to discord, using `/discord link` in-game. Once they do it, the role of the team they have registered with will be given automatically.
 
-## Prize pool, passes and server upgrades
+# Prize pool, passes and server upgrades
 
 *This is not final and it's subject to change*
 
@@ -70,7 +70,7 @@ Please complete [this form](https://forms.gle/xZy7ktibYMZdBFF78) and we will rev
 - A tournament winner rank both in-game and in the Discord server, with donor perks.
 - We will include season passes and server upgrades soon, which would help to set a prize pool if there are enough donations. Keep an eye on `#announcements` for more information!
 
-## Rules and Anticheat
+# Rules and Anticheat
 
 Overcast Community [rules](/rules/) will apply, and will be updated soon to include a tournament section that will apply immediately.
 
