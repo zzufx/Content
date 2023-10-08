@@ -1,0 +1,13 @@
+sites:
+  - name: "The Official Minecraft Server List"
+    link: "https://findmcserver.com/server/overcast-community?vote=true"
+    image: "site-4.png"
+  - name: "PlanetMinecraft"
+    link: "https://www.planetminecraft.com/server/overcast-community/vote/"
+    image: "site-1.png"
+  - name: "MinecraftServers.org"
+    link: "https://minecraftservers.org/vote/636786"
+    image: "site-2.png"
+  - name: "Top Minecraft Servers"
+    link: "https://topminecraftservers.org/vote/29505"
+    image: "site-3.png"
