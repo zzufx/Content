@@ -97,6 +97,16 @@ map developers:
         github: TheRealPear
     - username: Lich_of_Flowers
       id: 52bcb4dd-a1a0-4d9b-94e0-49e145e318e4
+      links:
+        github: Lich-of-Flowers
+    - username: Antnecb
+      id: b1521072-6993-4fe4-ae60-dbeeb7dc0cfa
+      links:
+        github: Antnecb
+    - username: mitchiii
+      id: f690a591-348b-482e-a18d-7779d0c0a28c
+      links:
+        github: mitchts
 head of events:
   color: "#fc0"
   members:
@@ -108,6 +118,8 @@ head of events:
       id: b1521072-6993-4fe4-ae60-dbeeb7dc0cfa
     - username: mameBT
       id: 430ec559-364a-4363-ac7a-2529050440ac
+    - username: Lich_of_Flowers
+      id: 52bcb4dd-a1a0-4d9b-94e0-49e145e318e4
 media:
   color: "#3c3"
   members:
