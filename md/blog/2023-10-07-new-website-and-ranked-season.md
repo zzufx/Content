@@ -27,4 +27,4 @@ Bolt has been rebranded to Overcast Ranked as we've now merged the network's sta
 
 We now have both English and Spanish queues for players to play on. Join the [Overcast Ranked Discord](https://discord.gg/emM562w) to get started and also check out our dedicated [Ranked page](https://oc.tc/docs/ranked) on the site for a guide! 
 
-To login to the webteam, you'll need to link your Discord account through the Overcast Ranked Discord. This method is temporary and will change in the future. Please leave any bugs or suggestions in our Discord [⁠Website Feedback channel](https://discord.com/channels/86514356862320640/1160319460419305622).
+To login to the website, you'll need to link your Discord account through the Overcast Ranked Discord. This method is temporary and will change in the future. Please leave any bugs or suggestions in our Discord [⁠Website Feedback channel](https://discord.com/channels/86514356862320640/1160319460419305622).
