@@ -17,14 +17,6 @@ administrators:
       role: SysAdmin & Development
       links:
         github: applenick
-    - username: Strangey
-      id: 621b2aa8-4e5f-4ed8-bd36-0ae2f8952a06
-      role: Map Development & Community
-      links:
-        github: Strangeys
-    - username: Campeh
-      id: 61f8e9dd-62ab-453a-b7ef-83ce8a383fe8
-      role: Events
     - username: wylt
       id: d71152ca-187d-43c4-9901-ba001606c655
       role: Community & Partnerships
@@ -110,8 +102,6 @@ map developers:
 head of events:
   color: "#fc0"
   members:
-    - username: Strangey
-      id: 621b2aa8-4e5f-4ed8-bd36-0ae2f8952a06
     - username: wylt
       id: d71152ca-187d-43c4-9901-ba001606c655
     - username: Antnecb
@@ -277,3 +267,9 @@ advisors:
       role: Development Advisor
       links:
         github: dentmaged
+    - username: Strangey
+      id: 621b2aa8-4e5f-4ed8-bd36-0ae2f8952a06
+      links:
+        github: Strangeys
+    - username: Campeh
+      id: 61f8e9dd-62ab-453a-b7ef-83ce8a383fe8
