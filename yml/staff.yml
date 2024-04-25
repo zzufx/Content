@@ -214,9 +214,6 @@ moderators:
       id: cc2292de-fcb3-412d-9319-f3177f73b605
     - username: zzuf
       id: 9d4779a8-d35f-45d2-b51c-95de7a77e128
-junior moderators:
-  color: "#f5f"
-  members:
     - username: dentmaged
       id: 30401f63-f5bb-4f24-9a5a-0ecd5f706115
     - username: Vand
@@ -225,6 +222,9 @@ junior moderators:
       id: f2efb814-9e02-4d17-bdf5-8ed449f9df77
     - username: Oprad
       id: 4836c72e-1752-4716-a0fc-83baf403e0eb
+junior moderators:
+  color: "#f5f"
+  members: []
 builders:
   color: "#6FF"
   members:
