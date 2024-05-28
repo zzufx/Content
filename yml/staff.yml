@@ -23,8 +23,6 @@ administrators:
 senior moderators:
   color: "#a00"
   members:
-    - username: Noel
-      id: 1696b5e2-2a7d-4dd0-a67e-45ebdd19359c
     - username: Kiyara
       id: 15c75bdd-005f-40f6-9e20-1ecf48bb51e5
     - username: EgoPlaZa
@@ -33,6 +31,8 @@ senior moderators:
       id: 57c4813e-ecc2-4aee-9479-8d58991d1a0c
     - username: otherkris
       id: 9923dd17-577e-4e9b-b9fe-46c8fb3aa962
+    - username: Nidho0gg
+      id: f34625ab-8f27-4cb5-8424-671fa82d4033
 developers:
   color: "#a5a"
   members:
@@ -152,8 +152,6 @@ moderators:
       id: 62b6d081-8df8-4c09-aa15-71141ca7df76
     - username: _DISTRACTION_
       id: f876b863-1ccd-4ae2-acad-8a09e2209e81
-    - username: Nidho0gg
-      id: f34625ab-8f27-4cb5-8424-671fa82d4033
     - username: matt772
       id: 468c7d75-62e0-4d11-8fc1-4888965be11c
     - username: mameBT
