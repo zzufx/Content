@@ -224,12 +224,12 @@ builders:
   members:
     - username: rockymine
       id: fe3608b7-d105-4029-8800-34b3147065b6
-    - username: Zero_Frosty
-      id: 74948888-fdb8-4446-9340-f7688c2435cc
     - username: Technodono
       id: 1aad55f7-2dea-4f22-85ca-ad9de3a78609
     - username: DerStiv
       id: f1ff7ecc-2e79-4320-85de-adb392eb2822
+    - username: Eliminate
+      id: d5a64b26-15ea-46c4-8319-f9c83e82a1fa
     - username: Kazoha
       id: 38ef938a-7020-4c04-9d12-4875ed0598ca
     - username: Shuliett

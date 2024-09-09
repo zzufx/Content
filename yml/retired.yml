@@ -1,4 +1,8 @@
 retired:
+  - username: Zero_Frosty
+    id: 74948888-fdb8-4446-9340-f7688c2435cc
+    role: Former Builder
+    date: '2024-08-25'
   - username: Noel
     id: 1696b5e2-2a7d-4dd0-a67e-45ebdd19359c
     role: Former Senior Moderator
@@ -23,10 +27,6 @@ retired:
     id: 2c222e01-fc43-4a35-8a61-9b4af9202094
     role: Former Moderator
     date: '2023-09-27'
-  - username: Eliminate
-    id: d5a64b26-15ea-46c4-8319-f9c83e82a1fa
-    role: Former Builder
-    date: '2023-06-15'
   - username: oc_tc
     id: 745c1536-dfb6-4ee8-92c5-aab069e7b6b2
     role: Former Web Developer
