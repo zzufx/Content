@@ -132,36 +132,20 @@ media:
 moderators:
   color: "#f55"
   members:
-    - username: luisgbr99
-      id: 3159ff86-76e2-453c-9ade-5e2ba9918396
     - username: jexel
       id: 9225421c-3c09-4d97-bb80-f6a77c1f360b
-    - username: KingOfSquares
-      id: 8af5859a-1d6e-4fbd-ae5f-4c63ff630fa4
-      links:
-        github: KingOfSquares
     - username: Pugzy
       id: 75fd93dd-8e48-4698-81a2-97dae2ec5b5f
-    - username: CoWinkKeyDinkInc
-      id: 5c79d2c9-a4f0-4343-a84b-e1720f13009b
-    - username: ocktick
-      id: 18ae0b62-8015-43b9-9409-f59246332bb4
     - username: Arzanex
       id: 62b6d081-8df8-4c09-aa15-71141ca7df76
     - username: _DISTRACTION_
       id: f876b863-1ccd-4ae2-acad-8a09e2209e81
-    - username: matt772
-      id: 468c7d75-62e0-4d11-8fc1-4888965be11c
     - username: mameBT
       id: 430ec559-364a-4363-ac7a-2529050440ac
     - username: _CherryPie_
       id: b1d3f382-6317-4c34-bda2-1aefbed6c8cd
     - username: HardstyleRaver
       id: 8d812ffa-e5f1-4658-bb47-a18b785ccd27
-    - username: Witmoos
-      id: bb2c7f64-5aa1-452c-a6da-515862f033cb
-    - username: MajorMcDonalds
-      id: a53b7c56-ddc6-4fcb-a121-9a3829aabc28
     - username: alejitox
       id: a90be681-0d8d-4d76-9094-c609a5d4596a
     - username: ImJeezus
@@ -172,16 +156,10 @@ moderators:
       id: 36dc036a-dfbc-4627-b66a-501223f08075
     - username: Zet
       id: 12272c21-3716-44a4-9d35-0c5221756439
-    - username: NotTeaTea0ne
-      id: 5cf9c375-632d-47ef-8418-304b2e8cfee9
     - username: Shimane
       id: 3a3f756e-7925-409a-be5e-e8c1694b3e2c
-    - username: Cazadorian
-      id: 6863869b-4b8c-4445-b778-a8e016775ae4
     - username: catzzy
       id: 1f7851a8-3a58-4d68-839f-939727a11080
-    - username: Chiddy_
-      id: 2fde9fe3-8aa0-43bf-9f74-e1c46f4dae72
     - username: sqyid
       id: c1d94f18-6ea3-495a-8d1b-7d9eaf393f64
     - username: JacketJack_
