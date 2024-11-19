@@ -1,7 +1,7 @@
 ---
 title: Map Submissions
 icon: map
-updated: "2023-08-25"
+updated: "2024-11-17"
 ---
 
 Information regarding server map submissions.
@@ -22,11 +22,13 @@ Maps submitted to Overcast Community must meet a certain standard and specific l
 
 - Before your map submission ensure that you have a fully working map.xml file, the map files have been pruned, and you have created a map.png at `290x246` resolution.
 
-- All map.xml files for new map submissions must be in proto `1.4.2` and follow standard [PGM XML conventions](https://pgm.dev/docs/guides/xml-pointers/conventions/).
+- All map.xml files for new map submissions must be in proto `1.5.0` and follow standard [PGM XML conventions](https://pgm.dev/docs/guides/xml-pointers/conventions/).
 
 - Avoid maps that are highly derivative of other maps or do little to stand out as unique when compared to similar maps, especially those in oversaturated gamemodes.
 
-- Maps that are submitted must meet our quality standards before being loaded for testing. Maps must also be designed in a way that is compatible with usage upon our servers and avoid usage of mechanics that may significantly hinder the ability to use a submitted map.
+- Maps that are submitted must meet our quality standards before being loaded for testing and/or use in the map pool. Quality standards may differ from gamemode to gamemode (e.g. wool rooms that offending players can place blocks in on Capture the Wool maps), but deviation from these standards may make sense on a case-by-case basis.
+
+- Maps must be designed in a way that is compatible with usage upon our servers and avoid usage of mechanics that may significantly hinder the ability to use a submitted map.
 
 - Ensure you are willing and able to provide updates to your map based upon feedback received within a timely manner. Map submissions that remain inactive for long periods of time may be closed.
 
