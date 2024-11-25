@@ -75,10 +75,6 @@ map developers:
       id: 2ca8072f-74be-4798-85b8-bbce03aa91af
       links:
         github: Tywnis
-    - username: Cazadorian
-      id: 6863869b-4b8c-4445-b778-a8e016775ae4
-      links:
-        github: Cazadorian
     - username: zzuf
       id: 9d4779a8-d35f-45d2-b51c-95de7a77e128
       links:
@@ -255,3 +251,8 @@ advisors:
         github: Strangeys
     - username: Campeh
       id: 61f8e9dd-62ab-453a-b7ef-83ce8a383fe8
+    - username: Cazadorian
+      id: 6863869b-4b8c-4445-b778-a8e016775ae4
+      role: Map Development Advisor
+      links:
+        github: Cazadorian
