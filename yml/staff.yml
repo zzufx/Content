@@ -198,17 +198,11 @@ moderators:
       id: 357ccee9-f178-496f-905f-26b6075a338e
     - username: Alexander_
       id: f2efb814-9e02-4d17-bdf5-8ed449f9df77
-junior moderators:
-  color: "#f5f"
-  members:
-    - username: LKFJimmy
-      id: 5876ff18-006d-4a1d-83d8-53abd8002578
-    - username: tomqss
-      id: f4eae547-b4d8-4348-9844-7e444e31b389
     - username: Teheggi
       id: c33a03bf-0f73-46e2-a93e-ddb7d25232d1
-    - username: pokejohn9
-      id: afc7a1a0-b41c-4279-a2ff-06779657ab01
+junior moderators:
+  color: "#f5f"
+  members: []
 builders:
   color: "#6FF"
   members:
