@@ -19,7 +19,7 @@ Hi everyone! We are very excited to announce our upcoming draft tournament: **Ov
 
 # Dates
 
-- **Tournament Date**: Saturday, August 8th, 2026 3:00 PM EDT
+- **Tournament Date**: Saturday, August 8th, 2026 4:00 PM EDT (20:00 UTC)
 
 The event channel will be open for players to join from the above time.
 
