@@ -200,15 +200,15 @@ moderators:
       id: f2efb814-9e02-4d17-bdf5-8ed449f9df77
     - username: Teheggi
       id: c33a03bf-0f73-46e2-a93e-ddb7d25232d1
-junior moderators:
-  color: "#f5f"
-  members:
     - username: Mewzzy
       id: b2539be1-8f98-4375-b653-9d91cd04c30e
     - username: samschaap
       id: 63ddf58a-ba2c-4d39-8481-6358bb46c63a
     - username: Anarquista
       id: d845eb0b-1ae4-40b7-9287-ec65c22b6e91
+junior moderators:
+  color: "#f5f"
+  members: []
 builders:
   color: "#6FF"
   members:
